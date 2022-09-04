@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="_media/css/limau.css" />
+  <link rel="icon" href="_media/img/voxbot.png" />
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Vox-OB',
+      repo: 'dustyganteng/docs',
+      loadSidebar: true,
+      loadNavbar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      },
+      'flexible-alerts': {
+        style: 'flat'
+      },
+      copyCode: {
+        buttonText : 'Copy command',
+        errorText  : 'Error',
+        successText: 'Copied'
+      }
+    }
+  </script>
+
+  <!-- Docsify v4 -->
+  <script src="_media/js/docsify.js"></script>
+  <script src="_media/js/docsify-plugin-flexible-alerts.js"></script>
+  <script src="_media/js/docsify-copy-code.js"></script>
+</body>
+</html>
