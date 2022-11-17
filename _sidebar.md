@@ -3,6 +3,7 @@
 	- [Vault](commands/vault.md)
 	- [SkyBlock](commands/skyblock.md)
 * [Fitur](fitur/)
+	- [Crate](fitur/crate.md)
 	- [Vault](fitur/vault.md)
 * [Tutorial](tutorial/)
 	- [Invite Teman](tutorial/invite-teman.md)
