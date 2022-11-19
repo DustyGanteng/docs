@@ -3,6 +3,7 @@ Ini adalah fitur mendapatkan uang tanpa kerja.<br>
 Ini adalah investasi jangka panjang.<br>
 Singkatan Money Printer adalah **MP**.<br>
 Ada 5 jenis MP: `Coal`, `Iron`, `Gold`, `Diamond`, `Emerald`, dan `Kirby`<br>
+Liat video tutorialnya di [sini](https://turu.link/mp)
 
 ## Coal MP
 Menghasilkan `$1` per 1 menit.<br>
